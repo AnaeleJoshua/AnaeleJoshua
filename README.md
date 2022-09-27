@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnaeleJoshua
+# - 👋 Hi, I’m AnaeleJoshua
 - 👀 I’m interested in Edtech,StartUp, Extended Reality, software engineering, machine learning.
 - 🌱 I’m currently learning React js, C/C++
 - 🌱 Currently learning software engineering with ALX, checkout my ALX repo for my learning journey
