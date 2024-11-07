@@ -1,6 +1,7 @@
 # - 👋 Hi, I’m AnaeleJoshua
-- 👀 I’m interested in Edtech,StartUp, Extended Reality, software engineering, machine learning.
-- 🌱 I’m currently learning React js, C/C++
+- 👀 I’m a software engineer (backend) with interest in ML.
+-  🌱 I am a Language Agnostic Engineer; I learn whatever I need to get the Job done.
+- 🌱 How my core programming language is python and javascript, using frameworks like express,flask and fastApi. 
 - 🌱 Currently learning software engineering with ALX, checkout my ALX repo for my learning journey
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email @ anaelejoshua0508@gmail.com
