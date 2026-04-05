@@ -46,10 +46,10 @@ I write about backend engineering, system design, and emerging technologies to s
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript (Node.js), Typescript, C, Python
-**Frameworks:** Express, FastAPI, Flask
-**Databases:** PostgreSQL, MongoDB
-**Tools:** Docker, Git, REST APIs, Cloud (Vercel, GCP)
+* **Languages:** JavaScript (Node.js), Typescript, C, Python
+* **Frameworks:** Express, FastAPI, Flask
+* **Databases:** PostgreSQL, MongoDB
+* **Tools:** Docker, Git, REST APIs, Cloud (Vercel, GCP)
 
 ---
 
