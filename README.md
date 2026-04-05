@@ -18,8 +18,8 @@ My work centers around APIs, distributed systems, and SaaS-style applications.
 
 ---
 
-🩺 pregNant – Pregnancy Care Management Backend
-Part of a broader system evolving into an early pregnancy detection and healthcare support application. 
+### 🩺 pregNant – Pregnancy Care Management Backend
+_ Part of a broader system evolving into an early pregnancy detection and healthcare support application. 
 * It manages pregnancy care data including patient records, diagnoses, ultrasound reports, and medical reports
 * Designed to support structured healthcare workflows with organized data models
 * Built with Node.js, Express, and SQLite with RESTful APIs for full CRUD operations
