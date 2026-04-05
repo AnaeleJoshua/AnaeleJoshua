@@ -27,7 +27,7 @@ Part of a broader system evolving into an early pregnancy detection and healthca
 * Demonstrates handling of multi-domain data (patients, diagnostics, reports) within a single system
 
 🔗 [View Repository](https://github.com/AnaeleJoshua/pregNant-Backend)
-🔗 [View Demo]([https://github.com/AnaeleJoshua/pregNant-Backend](https://screenrec.com/share/C1lDaxdois))
+🔗 [View Demo](https://screenrec.com/share/C1lDaxdois)
 
 ---
 
