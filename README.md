@@ -19,13 +19,15 @@ My work centers around APIs, distributed systems, and SaaS-style applications.
 ---
 
 🩺 pregNant – Pregnancy Care Management Backend
-Part of a broader system evolving into an early pregnancy detection and healthcare support application. It manages pregnancy care data including patient records, diagnoses, ultrasound reports, and medical reports
-Designed to support structured healthcare workflows with organized data models
-Built with Node.js, Express, and SQLite with RESTful APIs for full CRUD operations
-Focuses on data integrity, modular architecture, and scalability for future desktop/Electron integration
-Demonstrates handling of multi-domain data (patients, diagnostics, reports) within a single system
+Part of a broader system evolving into an early pregnancy detection and healthcare support application. 
+* It manages pregnancy care data including patient records, diagnoses, ultrasound reports, and medical reports
+* Designed to support structured healthcare workflows with organized data models
+* Built with Node.js, Express, and SQLite with RESTful APIs for full CRUD operations
+* Focuses on data integrity, modular architecture, and scalability for future desktop/Electron integration
+* Demonstrates handling of multi-domain data (patients, diagnostics, reports) within a single system
 
 🔗 [View Repository](https://github.com/AnaeleJoshua/pregNant-Backend)
+🔗 [View Demo]([https://github.com/AnaeleJoshua/pregNant-Backend](https://screenrec.com/share/C1lDaxdois))
 
 ---
 
